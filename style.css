@@ -1,3 +1,4 @@
+
 .home-title{
     background-color:#800080;
     font-family: Times New Roman, Serif;
@@ -13,8 +14,9 @@
    padding:10px;
    color:#FDB927;
    text-align:center;
-   margin:10px;
+   margin: auto;
    border: 5px dotted yellow;
+   display:block;
    
    
    
@@ -24,9 +26,10 @@
 .link-2{
    background-color:red;
    padding:10px;
-   margin:10px;
+   margin:0 auto;
    text-align:center;
    border: 5px dotted yellow;
+   display:block;
    
   }
 
@@ -35,7 +38,8 @@
    background-color:green;
    text-align:center;
    padding:10px;
-   margin: 10px;
+   margin: 0 auto;
    border: 5px dotted yellow;
+   display: block;
    
   }
