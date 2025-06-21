@@ -1,0 +1,41 @@
+.home-title{
+    background-color:#800080;
+    font-family: Times New Roman, Serif;
+    color: #FDB927;
+    border: 5px solid black;
+    width:205px;
+    text-align:center;
+    margin:auto;
+  }
+
+.link-1{
+   background-color:blue;
+   padding:10px;
+   color:#FDB927;
+   text-align:center;
+   margin:10px;
+   border: 5px dotted yellow;
+   
+   
+   
+  }
+
+
+.link-2{
+   background-color:red;
+   padding:10px;
+   margin:10px;
+   text-align:center;
+   border: 5px dotted yellow;
+   
+  }
+
+
+.link-3{
+   background-color:green;
+   text-align:center;
+   padding:10px;
+   margin: 10px;
+   border: 5px dotted yellow;
+   
+  }
